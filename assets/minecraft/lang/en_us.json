@@ -1,0 +1,7 @@
+{
+  "soundCategory.music": "Vanilla Music",
+  "soundCategory.record": "Minigame Music",
+  "death.attack.wither": "%1$s fell to corruption",
+  "death.attack.wither.player": "%1$s fell to corruption whilst fighting %2$s",
+  "effect.minecraft.wither": "Corruption"
+}

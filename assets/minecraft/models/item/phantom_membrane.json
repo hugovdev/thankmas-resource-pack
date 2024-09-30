@@ -50,17 +50,23 @@
       "predicate": {
         "custom_model_data": 8
       },
-      "model": "item/fish/baby_fen_stalker"
+      "model": "item/fish/phrog"
     },
     {
       "predicate": {
         "custom_model_data": 9
       },
-      "model": "item/fish/fen_stalker"
+      "model": "item/fish/baby_fen_stalker"
     },
     {
       "predicate": {
         "custom_model_data": 10
+      },
+      "model": "item/fish/fen_stalker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
       },
       "model": "item/fish/void_piranha"
     }

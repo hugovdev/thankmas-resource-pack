@@ -33,6 +33,36 @@
         "custom_model_data": 5
       },
       "model": "item/fish/kweebec"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/fish/tree_singer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/fish/frog"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/fish/baby_fen_stalker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/fish/fen_stalker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/fish/void_piranha"
     }
   ]
 }

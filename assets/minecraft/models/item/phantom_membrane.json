@@ -69,6 +69,12 @@
         "custom_model_data": 11
       },
       "model": "item/fish/void_piranha"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/fish/outlander"
     }
   ]
 }

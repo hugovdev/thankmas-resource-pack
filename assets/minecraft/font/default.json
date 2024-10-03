@@ -5,71 +5,91 @@
       "file": "space:font/splitter.png",
       "ascent": -9999,
       "height": -2,
-      "chars": ["󀀀"]
+      "chars": [
+        "󀀀"
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "icons/chat_kweebec.png",
-        "ascent": 7,
-        "height": 8,
-        "chars": ["\uF001"]
-      },
-      {
-        "type": "bitmap",
-        "file": "icons/chat_kweebec.png",
-        "ascent": 8,
-        "height": 8,
-        "chars": ["\uF002"]
-      },
-      {
-        "type": "bitmap",
-        "file": "icons/kweebec_small.png",
-        "ascent": 8,
-        "height": 8,
-        "chars": ["\uF003"]
-      },
-      {
-        "type": "bitmap",
-        "file": "icons/chat_trork.png",
-        "ascent": 7,
-        "height": 8,
-        "chars": ["\uD001"]
-      },
-      {
-        "type": "bitmap",
-        "file": "icons/chat_trork.png",
-        "ascent": 8,
-        "height": 8,
-        "chars": ["\uD002"]
-      },
-      {
-        "type": "bitmap",
-        "file": "icons/kills_big.png",
-        "ascent": 8,
-        "height": 8,
-        "chars": ["\uB001"]
-      },
-      {
-        "type": "bitmap",
-        "file": "icons/kills.png",
-        "ascent": 8,
-        "height": 8,
-        "chars": ["\uB002"]
-      },
-      {
-        "type": "bitmap",
-        "file": "icons/trophy.png",
-        "ascent": 11,
-        "height": 14,
-        "chars": ["\uB003"]
-      },
-      {
-        "type": "bitmap",
-        "file": "icons/coin.png",
-        "ascent": 8,
-        "height": 8,
-        "chars": ["\u26C3"]
-      },
+      "type": "bitmap",
+      "file": "icons/chat_kweebec.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uF000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons/chat_kweebec.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uF001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons/kweebec_small.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uF002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons/chat_trork.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uF003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons/chat_trork.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uF004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons/kills_big.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uF005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons/kills.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uF006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons/trophy.png",
+      "ascent": 11,
+      "height": 14,
+      "chars": [
+        "\uF007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons/coin.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uF008"
+      ]
+    },
     {
       "type": "space",
       "advances": {

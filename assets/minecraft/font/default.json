@@ -91,6 +91,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "menu/npc_journal.png",
+      "height": 256,
+      "ascent": 30,
+      "chars": [
+        "\uE000"
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "󎀀": -8192,

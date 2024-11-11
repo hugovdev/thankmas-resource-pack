@@ -1,0 +1,17 @@
+{
+    "gui": {
+        "scaling": {
+            "type": "nine_slice",
+            "width": 29,
+            "height": 29,
+            "border": 14
+        }
+    },
+    "animation": {
+		"frames": [
+			0
+		],
+        "frametime": 6,
+        "height": 29
+    }
+}

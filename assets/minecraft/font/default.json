@@ -94,7 +94,7 @@
       "type": "bitmap",
       "file": "menu/npc_journal.png",
       "height": 256,
-      "ascent": 29,
+      "ascent": 31,
       "chars": [
         "\uE000"
       ]

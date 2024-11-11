@@ -94,7 +94,7 @@
       "type": "bitmap",
       "file": "menu/npc_journal.png",
       "height": 256,
-      "ascent": 30,
+      "ascent": 29,
       "chars": [
         "\uE000"
       ]
@@ -103,7 +103,7 @@
       "type": "bitmap",
       "file": "menu/player_profile.png",
       "height": 256,
-      "ascent": 84,
+      "ascent": 85,
       "chars": [
         "\uE001"
       ]

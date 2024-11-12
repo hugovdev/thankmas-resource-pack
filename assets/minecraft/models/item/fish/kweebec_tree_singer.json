@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-      "layer0": "item/fish/tree_singer"
+      "layer0": "item/fish/kweebec_tree_singer"
     }
   }

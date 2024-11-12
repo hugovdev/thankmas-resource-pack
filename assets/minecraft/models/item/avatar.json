@@ -3,11 +3,12 @@
   "textures": {
     "particle": "block/soul_sand"
   },
-  "gui_light": "front",
+  "gui_light": "side",
   "display": {
     "gui": {
-      "translation": [0, 19, 0],
-      "scale": [3.7, 3.7, 3.7]
+      "translation": [0, 20.5, 0],
+      "scale": [3.7, 3.7, 3.7],
+      "rotation": [0, 180, 0]
     }
   }
 }

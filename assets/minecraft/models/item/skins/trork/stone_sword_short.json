@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/skins/trork/stone_sword_short"
+    }
+  }

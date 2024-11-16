@@ -2,8 +2,8 @@
 	"credit": "Made in Blockbench by @Eveee_cx",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/kweebec_jumper",
-		"particle": "item/kweebec_jumper"
+		"0": "item/gadgets/kweebec_jumper",
+		"particle": "item/gadgets/kweebec_jumper"
 	},
 	"elements": [
 		{

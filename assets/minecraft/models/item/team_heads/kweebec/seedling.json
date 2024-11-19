@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by Memetheew ;3",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "block/custom/seedling_kweebec_head"
+		"1": "item/team_heads/kweebec/seedling"
 	},
 	"elements": [
 		{

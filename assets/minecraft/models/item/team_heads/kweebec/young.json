@@ -1,8 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by Memetheew ;3",
+	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/custom/adult_kweebec_head",
-		"particle": "block/custom/adult_kweebec_head"
+		"0": "item/team_heads/kweebec/young",
+		"particle": "item/team_headskweebec//young"
 	},
 	"elements": [
 		{
@@ -32,8 +33,8 @@
 			}
 		},
 		{
-			"from": [4.99, 15.99, 0.99],
-			"to": [14.01, 16.01, 10.01],
+			"from": [5, 16, 1],
+			"to": [14, 16, 10],
 			"rotation": {"angle": -45, "axis": "x", "origin": [8, 11, 8]},
 			"faces": {
 				"north": {"uv": [6.75, 7.25, 9, 7.25], "texture": "#0"},
@@ -45,8 +46,8 @@
 			}
 		},
 		{
-			"from": [4.99, 3.62604, -0.6166],
-			"to": [14.01, 9.64604, -0.5966],
+			"from": [5, 3.63604, -0.6066],
+			"to": [14, 9.63604, -0.6066],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [9.5, 9.46447, -0.6066]},
 			"faces": {
 				"north": {"uv": [4.5, 7.25, 6.75, 8.75], "texture": "#0"},
@@ -231,13 +232,5 @@
 			"translation": [0, 3.75, 0],
 			"scale": [1.5, 1.5, 1.5]
 		}
-	},
-	"groups": [
-		{
-			"name": "adult_kweebec_head",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
-		}
-	]
+	}
 }

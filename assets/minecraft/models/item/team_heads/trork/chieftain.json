@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Memetheew ;3",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/custom/chieftain_trork_head",
-		"particle": "block/custom/chieftain_trork_head"
+		"0": "item/team_heads/trork/chieftain",
+		"particle": "item/team_heads/trork/chieftain"
 	},
 	"elements": [
 		{

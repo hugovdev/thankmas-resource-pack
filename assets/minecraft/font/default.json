@@ -21,7 +21,7 @@
     {
       "type": "bitmap",
       "file": "icons/chat_kweebec.png",
-      "ascent": 8,
+      "ascent": 7.5,
       "height": 8,
       "chars": [
         "\uF001"
@@ -48,7 +48,7 @@
     {
       "type": "bitmap",
       "file": "icons/chat_trork.png",
-      "ascent": 8,
+      "ascent": 7.5,
       "height": 8,
       "chars": [
         "\uF004"

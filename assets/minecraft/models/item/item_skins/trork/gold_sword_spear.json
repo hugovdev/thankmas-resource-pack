@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-      "layer0": "item/skins/trork/diamond_sword"
+      "layer0": "item/item_skins/trork/gold_sword_spear"
     }
   }

@@ -112,7 +112,7 @@
       "type": "bitmap",
       "file": "menu/cosmetic_selector.png",
       "height": 256,
-      "ascent": 85,
+      "ascent": 10,
       "chars": [
         "\uE002"
       ]

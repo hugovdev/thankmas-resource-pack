@@ -109,6 +109,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "menu/cosmetic_selector.png",
+      "height": 256,
+      "ascent": 85,
+      "chars": [
+        "\uE002"
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "󎀀": -8192,

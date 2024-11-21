@@ -2,17 +2,7 @@
   "music.save_the_kweebecs": {
     "sounds": [
       {
-        "name": "save_the_kweebecs",
-        "stream": true,
-        "volume": 1.0,
-        "attenuation_distance": 0
-      }
-    ]
-  },
-  "music.lobby": {
-    "sounds": [
-      {
-        "name": "lobby",
+        "name": "music/save_the_kweebecs",
         "stream": true,
         "volume": 1.0,
         "attenuation_distance": 0
@@ -22,9 +12,9 @@
   "save_the_kweebecs.kill": {
     "sounds": [
       {
-        "name": "kill",
+        "name": "save_the_kweebecs/kill",
         "stream": true,
-        "volume": 1.0,
+        "volume": 0.8,
         "attenuation_distance": 0
       }
     ]
@@ -32,7 +22,7 @@
   "save_the_kweebecs.victory": {
     "sounds": [
       {
-        "name": "victory",
+        "name": "save_the_kweebecs/victory",
         "stream": true,
         "volume": 1.0,
         "attenuation_distance": 0
@@ -42,7 +32,17 @@
   "save_the_kweebecs.kweebec_saved": {
     "sounds": [
       {
-        "name": "kweebec_saved",
+        "name": "save_the_kweebecs/kweebec_saved",
+        "stream": true,
+        "volume": 1.0,
+        "attenuation_distance": 0
+      }
+    ]
+  },
+  "lobby.cosmetic_selector_open": {
+    "sounds": [
+      {
+        "name": "lobby/cosmetic_selector_open",
         "stream": true,
         "volume": 1.0,
         "attenuation_distance": 0

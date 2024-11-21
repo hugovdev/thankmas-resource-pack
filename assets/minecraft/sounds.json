@@ -48,5 +48,25 @@
         "attenuation_distance": 0
       }
     ]
+  },
+  "lobby.cosmetic_selector_buy": {
+    "sounds": [
+      {
+        "name": "lobby/cosmetic_selector_buy",
+        "stream": true,
+        "volume": 1.0,
+        "attenuation_distance": 0
+      }
+    ]
+  },
+  "lobby.cosmetic_selector_select": {
+    "sounds": [
+      {
+        "name": "lobby/cosmetic_selector_select",
+        "stream": true,
+        "volume": 1.0,
+        "attenuation_distance": 0
+      }
+    ]
   }
 }

@@ -2,5 +2,20 @@
   "pack": {
     "pack_format": 42,
     "description": "§b§lHytale Thankmas §f§l2024§7 •\n§3Server Resource Pack ⛏"
-  }
+  },
+"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 36, "max_inclusive": 2147483647},
+				"directory": "shaders_v36"
+			}
+		]
+	},
+	"sodium": {
+		"ignored_shaders": [
+			"rendertype_solid.fsh",
+			"rendertype_cutout.fsh",
+			"rendertype_translucent.fsh"
+		]
+	}
 }

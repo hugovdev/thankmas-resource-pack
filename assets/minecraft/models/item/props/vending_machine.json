@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/props/vending_mashine",
-		"particle": "item/props/vending_mashine"
+		"0": "item/props/vending_machine",
+		"particle": "item/props/vending_machine"
 	},
 	"elements": [
 		{

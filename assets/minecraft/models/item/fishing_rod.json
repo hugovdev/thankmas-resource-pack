@@ -1,0 +1,79 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "item/fishing_rod"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cast": 1
+      },
+      "model": "item/fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/rods/rusty_wooden_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1,
+        "cast": 1
+      },
+      "model": "item/rods/rusty_wooden_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/rods/sungwood_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2,
+        "cast": 1
+      },
+      "model": "item/rods/sungwood_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/rods/thorium_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3,
+        "cast": 1
+      },
+      "model": "item/rods/thorium_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/rods/cloudsteel_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4,
+        "cast": 1
+      },
+      "model": "item/rods/cloudsteel_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/rods/gaian_rod_animated"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5,
+        "cast": 1
+      },
+      "model": "item/rods/gaian_rod_cast"
+    }
+  ]
+}

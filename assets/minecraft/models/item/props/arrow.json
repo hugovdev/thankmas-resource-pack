@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/props/arrow"
+	},
+	"elements": [
+		{
+			"from": [3.25, -3, 8],
+			"to": [12.25, 13, 8],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.75, 6.025, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 9, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 9, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [11, -37, 0],
+			"translation": [0, 1.25, 0],
+			"scale": [0.52, 0.52, 0.52]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -26],
+			"scale": [3.01, 3.01, 3.01]
+		}
+	},
+	"groups": [
+		{
+			"name": "arrow",
+			"origin": [0, -11, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

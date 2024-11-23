@@ -39,6 +39,16 @@
       }
     ]
   },
+  "save_the_kweebecs.mushroom_boing": {
+    "sounds": [
+      {
+        "name": "save_the_kweebecs/mushroom_boing",
+        "stream": true,
+        "volume": 1.0,
+        "attenuation_distance": 0
+      }
+    ]
+  },
   "lobby.cosmetic_selector_open": {
     "sounds": [
       {

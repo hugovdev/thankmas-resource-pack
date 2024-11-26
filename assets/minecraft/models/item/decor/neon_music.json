@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "item/decor/neon_lights_3",
+		"particle": "item/decor/neon_lights_3"
+	},
+	"elements": [
+		{
+			"from": [-7, -16, 0],
+			"to": [25, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-7, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"east": {"uv": [6, 0, 4, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"west": {"uv": [4, 0, 6, 6], "texture": "#0"},
+				"up": {"uv": [0, 6, 4, 8], "texture": "#0"},
+				"down": {"uv": [4, 8, 0, 6], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.17, 0.17, 0.17]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.17, 0.17, 0.17]
+		},
+		"firstperson_righthand": {
+			"rotation": [-17, -3, 0],
+			"translation": [0, 5.75, 0],
+			"scale": [0.17, 0.17, 0.09]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-17, -3, 0],
+			"translation": [0, 5.75, 0],
+			"scale": [0.17, 0.17, 0.09]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.22, 0.22, 0.22]
+		},
+		"gui": {
+			"rotation": [-22, -18, -11],
+			"scale": [0.31, 0.31, 0.31]
+		},
+		"head": {
+			"translation": [0, 14.5, -0.5],
+			"scale": [0.93, 0.93, 0.93]
+		},
+		"fixed": {
+			"scale": [0.36, 0.36, 0.36]
+		}
+	}
+}

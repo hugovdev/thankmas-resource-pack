@@ -257,7 +257,7 @@
 			"scale": [0.67, 0.67, 0.67]
 		},
 		"head": {
-			"translation": [-1.25, 12.5, 0]
+			"translation": [0, 12.5, 0]
 		},
 		"fixed": {
 			"translation": [3, -0.75, -6]

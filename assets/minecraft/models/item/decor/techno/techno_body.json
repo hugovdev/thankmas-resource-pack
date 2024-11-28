@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/decor/techno/techno_statue",
+		"particle": "item/decor/techno/techno_statue"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 6],
+			"to": [12, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 6.5, 8]},
+			"faces": {
+				"north": {"uv": [5, 5, 7, 8], "texture": "#0"},
+				"east": {"uv": [4, 5, 5, 8], "texture": "#0"},
+				"south": {"uv": [8, 5, 10, 8], "texture": "#0"},
+				"west": {"uv": [7, 5, 8, 8], "texture": "#0"},
+				"up": {"uv": [5, 4, 7, 5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7, 4, 9, 5], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [28, 147, 0],
+			"translation": [0, 1.75, 0],
+			"scale": [1.33, 1.33, 1.33]
+		}
+	}
+}

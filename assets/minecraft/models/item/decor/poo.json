@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "poo",
-		"particle": "poo"
+		"0": "item/decor/poo",
+		"particle": "item/decor/poo"
 	},
 	"elements": [
 		{

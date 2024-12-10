@@ -121,7 +121,7 @@
       "type": "bitmap",
       "file": "menu/discovered_fish.png",
       "height": 256,
-      "ascent": 0,
+      "ascent": 85,
       "chars": [
         "\uE004"
       ]
@@ -130,7 +130,7 @@
       "type": "bitmap",
       "file": "menu/rod_shop.png",
       "height": 256,
-      "ascent": 0,
+      "ascent": 85,
       "chars": [
         "\uE005"
       ]

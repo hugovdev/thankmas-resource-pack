@@ -2,7 +2,47 @@
   "music.save_the_kweebecs": {
     "sounds": [
       {
-        "name": "music/save_the_kweebecs",
+        "name": "save_the_kweebecs/music/main_theme",
+        "stream": true,
+        "volume": 1.0,
+        "attenuation_distance": 0
+      }
+    ]
+  },
+  "music.neon_city": {
+    "sounds": [
+      {
+        "name": "lobby/music/neon_city",
+        "stream": true,
+        "volume": 1.0,
+        "attenuation_distance": 0
+      }
+    ]
+  },
+  "music.medieval_town": {
+    "sounds": [
+      {
+        "name": "lobby/music/medieval_town",
+        "stream": true,
+        "volume": 1.0,
+        "attenuation_distance": 0
+      }
+    ]
+  },
+  "music.kweebec_park": {
+    "sounds": [
+      {
+        "name": "lobby/music/kweebec_park",
+        "stream": true,
+        "volume": 1.0,
+        "attenuation_distance": 0
+      }
+    ]
+  },
+  "music.alchemy_district": {
+    "sounds": [
+      {
+        "name": "lobby/music/alchemy_district",
         "stream": true,
         "volume": 1.0,
         "attenuation_distance": 0

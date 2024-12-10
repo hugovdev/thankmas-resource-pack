@@ -110,20 +110,29 @@
     },
     {
       "type": "bitmap",
-      "file": "menu/cosmetic_selector_on.png",
-      "height": 256,
-      "ascent": 31,
-      "chars": [
-        "\uE002"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "menu/cosmetic_selector_off.png",
       "height": 256,
       "ascent": 31,
       "chars": [
         "\uE003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "menu/discovered_fish.png",
+      "height": 256,
+      "ascent": 0,
+      "chars": [
+        "\uE004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "menu/rod_shop.png",
+      "height": 256,
+      "ascent": 0,
+      "chars": [
+        "\uE005"
       ]
     },
     {

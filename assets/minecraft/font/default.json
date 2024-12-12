@@ -136,6 +136,24 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "menu/stk_map.png",
+      "height": 256,
+      "ascent": 31,
+      "chars": [
+        "\uE006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "menu/stk_map_nolegacy.png",
+      "height": 256,
+      "ascent": 31,
+      "chars": [
+        "\uE007"
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "󎀀": -8192,

@@ -1,0 +1,221 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/skins/outlander/outlander_crossbow",
+		"particle": "item/skins/outlander/outlander_crossbow"
+	},
+	"elements": [
+		{
+			"from": [13.40262, 1.025, 2.23784],
+			"to": [17.40262, 2.925, 3.23784],
+			"rotation": {"angle": -45, "axis": "y", "origin": [14.40262, 0.95, 2.23784]},
+			"faces": {
+				"north": {"uv": [1.984, 6.016, 0.016, 6.984], "texture": "#0"},
+				"east": {"uv": [4.484, 6.016, 4.016, 6.984], "texture": "#0"},
+				"south": {"uv": [3.984, 6.016, 2.016, 6.984], "texture": "#0"},
+				"up": {"uv": [0.016, 5.984, 1.984, 5.516], "texture": "#0"},
+				"down": {"uv": [2.016, 5.516, 3.984, 5.984], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 1.025, 0],
+			"to": [10, 3, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 0]},
+			"faces": {
+				"north": {"uv": [3.516, 4.516, 5.484, 5.484], "texture": "#0"},
+				"east": {"uv": [0.016, 4.516, 1.484, 5.484], "texture": "#0"},
+				"south": {"uv": [1.516, 4.516, 3.484, 5.484], "texture": "#0"},
+				"west": {"uv": [1.484, 4.516, 0.016, 5.484], "texture": "#0"},
+				"up": {"uv": [1.984, 4.484, 0.016, 3.016], "texture": "#0"},
+				"down": {"uv": [3.984, 3.016, 2.016, 4.484], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 1, 3],
+			"to": [9, 3, 20],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 3]},
+			"faces": {
+				"north": {"uv": [4.516, 13.016, 5.484, 13.984], "texture": "#0"},
+				"east": {"uv": [8.484, 2.016, 0.016, 2.984], "texture": "#0"},
+				"south": {"uv": [8.516, 2.016, 9.484, 2.984], "texture": "#0"},
+				"west": {"uv": [0.016, 2.016, 8.484, 2.984], "texture": "#0"},
+				"up": {"uv": [8.484, 1.984, 0.016, 1.016], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0.016, 0.984, 8.484, 0.016], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.75, 0.75, 4],
+			"to": [9.25, 3.25, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 4]},
+			"faces": {
+				"north": {"uv": [0.016, 14.516, 0.484, 15.984], "texture": "#0"},
+				"east": {"uv": [0.016, 14.516, 2.484, 15.984], "texture": "#0"},
+				"south": {"uv": [0.016, 14.516, 0.484, 15.984], "texture": "#0"},
+				"west": {"uv": [0.016, 14.516, 2.484, 15.984], "texture": "#0"},
+				"up": {"uv": [0.016, 14.516, 2.484, 15.984], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0.016, 14.516, 2.484, 15.984], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 0.75, 1],
+			"to": [5.5, 3.25, 3.5],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [3, 2, 2.5]},
+			"faces": {
+				"north": {"uv": [0.016, 14.516, 0.984, 15.75], "texture": "#0"},
+				"east": {"uv": [0.125, 14.516, 0.375, 15.984], "texture": "#0"},
+				"south": {"uv": [0.984, 14.516, 0.016, 15.75], "texture": "#0"},
+				"west": {"uv": [0.625, 14.516, 0.875, 15.984], "texture": "#0"},
+				"up": {"uv": [0.016, 14.516, 0.984, 15.75], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0.984, 14.516, 0.016, 15.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.94967, -0.8, 12.25768],
+			"to": [9.04967, 1.4, 14.25768],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8.49967, 2, 11.85768]},
+			"faces": {
+				"north": {"uv": [0.125, 14.516, 0.375, 15.984], "texture": "#0"},
+				"east": {"uv": [0.984, 14.516, 0.016, 15.75], "texture": "#0"},
+				"south": {"uv": [0.625, 14.516, 0.875, 15.984], "texture": "#0"},
+				"west": {"uv": [0.016, 14.516, 0.984, 15.75], "texture": "#0"},
+				"up": {"uv": [0.016, 14.516, 0.984, 15.75], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0.984, 14.516, 0.016, 15.75], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [10.5, 0.75, 1],
+			"to": [12.5, 3.25, 3.5],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [13, 2, 2.5]},
+			"faces": {
+				"north": {"uv": [0.984, 14.516, 0.016, 15.75], "texture": "#0"},
+				"east": {"uv": [0.875, 14.516, 0.625, 15.984], "texture": "#0"},
+				"south": {"uv": [0.016, 14.516, 0.984, 15.75], "texture": "#0"},
+				"west": {"uv": [0.375, 14.516, 0.125, 15.984], "texture": "#0"},
+				"up": {"uv": [0.984, 14.516, 0.016, 15.75], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0.016, 14.516, 0.984, 15.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.15, -0.75, 8.425],
+			"to": [8.85, 1.25, 15.675],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 0.25, 11.675]},
+			"faces": {
+				"north": {"uv": [0.016, 11.516, 0.984, 12.484], "texture": "#0"},
+				"east": {"uv": [0.016, 9.516, 3.484, 10.484], "texture": "#0"},
+				"south": {"uv": [1.016, 11.516, 1.984, 12.484], "texture": "#0"},
+				"west": {"uv": [3.484, 9.516, 0.016, 10.484], "texture": "#0"},
+				"up": {"uv": [3.484, 9.516, 0.016, 10.484], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0.016, 11.484, 3.484, 10.516], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.56646, 1.85, 3.86171],
+			"to": [7.56646, 2.85, 4.86171],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.56646, 2.35, 10.66171]},
+			"faces": {
+				"north": {"uv": [15.016, 4.516, 15.484, 7.984], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.016, 4.516, 15.484, 7.984], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [15.016, 4.516, 15.484, 7.984], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [15.016, 4.516, 15.484, 7.984], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [15.016, 4.516, 15.484, 7.984], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [15.016, 4.516, 15.484, 7.984], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.43354, 1.85, 3.86171],
+			"to": [15.43354, 2.85, 4.86171],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.93354, 2.35, 4.36171]},
+			"faces": {
+				"north": {"uv": [15.016, 7.984, 15.484, 4.516], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [15.016, 7.984, 15.484, 4.516], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [15.016, 7.984, 15.484, 4.516], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [15.016, 7.984, 15.484, 4.516], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [15.016, 7.984, 15.484, 4.516], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [15.016, 7.984, 15.484, 4.516], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.07612, 1, 0.38268],
+			"to": [6.07612, 2.95, 2.38268],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [5.07612, 1, 0.38268]},
+			"faces": {
+				"north": {"uv": [3.016, 8.016, 4.984, 8.984], "texture": "#0"},
+				"south": {"uv": [1.016, 8.016, 2.984, 8.984], "texture": "#0"},
+				"west": {"uv": [0.016, 8.016, 0.984, 8.984], "texture": "#0"},
+				"up": {"uv": [1.984, 7.984, 0.016, 7.016], "texture": "#0"},
+				"down": {"uv": [3.984, 7.016, 2.016, 7.984], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-1.40262, 1.025, 2.23784],
+			"to": [2.59738, 2.925, 3.23784],
+			"rotation": {"angle": 45, "axis": "y", "origin": [1.59738, 0.95, 2.23784]},
+			"faces": {
+				"north": {"uv": [0.016, 6.016, 1.984, 6.984], "texture": "#0"},
+				"south": {"uv": [2.016, 6.016, 3.984, 6.984], "texture": "#0"},
+				"west": {"uv": [4.016, 6.016, 4.484, 6.984], "texture": "#0"},
+				"up": {"uv": [1.984, 5.984, 0.016, 5.516], "texture": "#0"},
+				"down": {"uv": [3.984, 5.516, 2.016, 5.984], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.92388, 1, 0.38268],
+			"to": [13.92388, 2.95, 2.38268],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [10.92388, 1, 0.38268]},
+			"faces": {
+				"north": {"uv": [4.984, 8.016, 3.016, 8.984], "texture": "#0"},
+				"east": {"uv": [0.984, 8.016, 0.016, 8.984], "texture": "#0"},
+				"south": {"uv": [2.984, 8.016, 1.016, 8.984], "texture": "#0"},
+				"up": {"uv": [0.016, 7.984, 1.984, 7.016], "texture": "#0"},
+				"down": {"uv": [2.016, 7.016, 3.984, 7.984], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"overrides": [
+		{"predicate": {"pulling": 1}, "model": "item/skins/outlander/outlander_crossbow"},
+		{"predicate": {"pulling": 1, "pull": 0.2}, "model": "item/skins/outlander/outlander_crossbow_pulling_0"},
+		{"predicate": {"pulling": 1, "pull": 0.4}, "model": "item/skins/outlander/outlander_crossbow_pulling_1"},
+		{"predicate": {"pulling": 1, "pull": 0.8}, "model": "item/skins/outlander/outlander_crossbow_pulling_2"},
+		{"predicate": {"charged": 1}, "model": "item/skins/outlander/outlander_crossbow_arrow"},
+		{"predicate": {"charged": 1, "firework": 1}, "model": "item/skins/outlander/outlander_crossbow_firework"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4.75, -1],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4.75, -1],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -10, 0],
+			"translation": [1.25, 6.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -10, 0],
+			"translation": [1.25, 6.75, 0]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0]
+		},
+		"gui": {
+			"rotation": [45, 139, 4],
+			"translation": [0.75, 4.25, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"head": {
+			"translation": [0, 14, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "crossbow_standby",
+			"origin": [10.92388, 0, 0.38268],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+		}
+	]
+}

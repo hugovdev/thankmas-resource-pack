@@ -172,6 +172,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "menu/game_selector.png",
+      "height": 256,
+      "ascent": 85,
+      "chars": [
+        "\uE00A"
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "󎀀": -8192,

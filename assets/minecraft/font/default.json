@@ -154,6 +154,24 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "menu/fish_sell.png",
+      "height": 256,
+      "ascent": 31,
+      "chars": [
+        "\uE008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "menu/stk_shop.png",
+      "height": 256,
+      "ascent": 31,
+      "chars": [
+        "\uE009"
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "󎀀": -8192,

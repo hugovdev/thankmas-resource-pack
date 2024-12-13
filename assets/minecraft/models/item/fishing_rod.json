@@ -73,7 +73,7 @@
         "custom_model_data": 5,
         "cast": 1
       },
-      "model": "item/rods/gaian_rod_cast"
+      "model": "item/rods/gaian_rod_animated_cast"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "item/decor/neon_big"
+	},
+	"elements": [
+		{
+			"from": [-4, -16, 6],
+			"to": [20, 28, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 11], "texture": "#0"},
+				"east": {"uv": [6.0625, 0, 7.0625, 11], "texture": "#0"},
+				"south": {"uv": [0, 0, 6, 11], "texture": "#0"},
+				"west": {"uv": [7.0625, 0, 6.0625, 11], "texture": "#0"},
+				"up": {"uv": [6, 12.0625, 0, 11.0625], "texture": "#0"},
+				"down": {"uv": [6, 11.0625, 0, 12.0625], "texture": "#0"}
+			}
+		}
+	]
+}

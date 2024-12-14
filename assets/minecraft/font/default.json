@@ -92,6 +92,24 @@
     },
     {
       "type": "bitmap",
+      "file": "icons/chat_outlander.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uF009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons/chat_outlander.png",
+      "ascent": 7.5,
+      "height": 8,
+      "chars": [
+        "\uF00A"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "menu/npc_journal.png",
       "height": 256,
       "ascent": 31,
@@ -157,7 +175,7 @@
       "type": "bitmap",
       "file": "menu/fish_sell.png",
       "height": 256,
-      "ascent": 31,
+      "ascent": 85,
       "chars": [
         "\uE008"
       ]

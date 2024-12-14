@@ -173,7 +173,7 @@
     },
     {
       "type": "bitmap",
-      "file": "menu/fish_sell.png",
+      "file": "menu/fish_sell_paperless.png",
       "height": 256,
       "ascent": 85,
       "chars": [

@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/decor/alex_testria/alex_testria_statue",
+		"particle": "item/decor/alex_testria/alex_testria_statue"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 6.5, 8]},
+			"faces": {
+				"north": {"uv": [11, 5, 12, 8], "texture": "#0"},
+				"east": {"uv": [12, 5, 13, 8], "texture": "#0"},
+				"south": {"uv": [13, 5, 14, 8], "texture": "#0"},
+				"west": {"uv": [10, 5, 11, 8], "texture": "#0"},
+				"up": {"uv": [11, 4, 12, 5], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [11, 4, 12, 5], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.75, 0, 5.75],
+			"to": [10.25, 12, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 6.5, 8]},
+			"faces": {
+				"north": {"uv": [11, 9, 12, 12], "texture": "#0"},
+				"east": {"uv": [12, 9, 13, 12], "texture": "#0"},
+				"south": {"uv": [13, 9, 14, 12], "texture": "#0"},
+				"west": {"uv": [10, 9, 11, 12], "texture": "#0"},
+				"up": {"uv": [11, 8, 12, 9], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [11, 8, 12, 9], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [28, 147, 0],
+			"translation": [0, 2, 0],
+			"scale": [1.33, 1.33, 1.33]
+		}
+	}
+}

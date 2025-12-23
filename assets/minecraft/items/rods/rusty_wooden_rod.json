@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/rods/rusty_wooden_rod_icon"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:fishing_rod/cast",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/rods/rusty_wooden_rod"
+      },
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/rods/rusty_wooden_rod_cast"
+      }
+    }
+  }
+}
